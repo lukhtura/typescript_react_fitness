@@ -1,7 +1,7 @@
 #  TYPESCRIPT FITNESS APLICATION
 
 ### SCREEN:
-![alt text](https://github.com/lukhtura/typescript_react_fitness/tree/master/other/screen.png "Logo Title Text 1")
+![alt](https://github.com/lukhtura/typescript_react_fitness/blob/master/other/screen.png)
 
 ### TOOLS:
 React, Typescript, Vite, Tailwind, React Hook Form, Hero Icons, Framer Motion, Form Submit, React Anchor Link
