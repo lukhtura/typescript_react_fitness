@@ -16,3 +16,4 @@ To use development mode: <br>
 
 Production mode: <br>
 4. npm run build
+5. npm preview
